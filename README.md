@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Anushka4546
-- 👀 I’m interested in ... java programming
-- 🌱 I’m currently learning ... to make new open source projects
-- 💞️ I’m looking to collaborate on ... any project
-- 📫 How to reach me ...on my email anushka4546@gmail.com
+# 👋 Hi there, I'm Anushka 👩‍💻
 
-<!---
-Anushka4546/Anushka4546 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Software Engineer @ BNY Mellon  
+🎯 Ex-Google Intern  
+🧩 Backend | Distributed Systems | System Design  
+🚀 Java (Spring Boot), Kafka, Node.js, Python, MongoDB, Cloud
+
+---
+
+### 🌱 Currently
+- Building scalable backend systems & distributed architectures.
+- Writing about system design & backend engineering on [Medium](https://medium.com/@anushka4546).
+- Always exploring new technologies, projects, and backend challenges.
+
+### 🤝 Open to
+- Collaborating on backend, cloud, or open-source projects.
+- Sharing knowledge and discussing system design topics.
+
+### 📫 How to reach me
+- Email: anushka4546@gmail.com
+- LinkedIn: [anushka-gupta-2001](https://linkedin.com/in/anushka-gupta-2001)
+
+---
+
+> "Always building. Always learning."
